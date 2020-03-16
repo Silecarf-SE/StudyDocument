@@ -7,3 +7,9 @@ https://choidev-1.tistory.com/
 라우터 이중화
 https://blog.boxcorea.com/wp/archives/2155
 https://blog.boxcorea.com/wp/archives/2163
+
+ssl 핸드쉐이크, 프로토콜 구조
+https://run-it.tistory.com/29?category=673442
+
+네트워크 이중화
+https://run-it.tistory.com/41?category=673442
